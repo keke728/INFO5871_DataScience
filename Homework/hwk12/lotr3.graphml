@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+<key attr.name="GenderX" attr.type="string" for="node" id="genderx"/>
+<key attr.name="Race" attr.type="string" for="node" id="race"/>
+<graph edgedefault="undirected">
+<node id="3173474">
+<data key="label">GANDALF</data>
+<data key="genderx">Male</data>
+<data key="race">Wizard</data>
+</node>
+<node id="3173334">
+<data key="label">SAM</data>
+<data key="genderx">Male</data>
+<data key="race">Hobbit</data>
+</node>
+<node id="3173355">
+<data key="label">FRODO</data>
+<data key="genderx">Male</data>
+<data key="race">Hobbit</data>
+</node>
+<node id="3175271">
+<data key="label">FARAMIR</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3173591">
+<data key="label">THEODEN</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3175262">
+<data key="label">GOTHMOG</data>
+<data key="genderx">Male</data>
+<data key="race">Orc</data>
+</node>
+<node id="3174453">
+<data key="label">ELROND</data>
+<data key="genderx">Male</data>
+<data key="race">Elf</data>
+</node>
+<node id="3175604">
+<data key="label">IORLAS</data>
+<data key="genderx">Male</data>
+<data key="race">Elf</data>
+</node>
+<node id="3173224">
+<data key="label">SMEAGOL</data>
+<data key="genderx">Male</data>
+<data key="race">Unknown</data>
+</node>
+<node id="3173479">
+<data key="label">GIMLI</data>
+<data key="genderx">Male</data>
+<data key="race">Dwarf</data>
+</node>
+<node id="3173466">
+<data key="label">MERRY</data>
+<data key="genderx">Male</data>
+<data key="race">Hobbit</data>
+</node>
+<node id="3173462">
+<data key="label">PIPPIN</data>
+<data key="genderx">Male</data>
+<data key="race">Hobbit</data>
+</node>
+<node id="3173660">
+<data key="label">ARAGORN</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3173599">
+<data key="label">EOWYN</data>
+<data key="genderx">Female</data>
+<data key="race">Human</data>
+</node>
+<node id="3174733">
+<data key="label">DENETHOR</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3173306">
+<data key="label">GOLLUM</data>
+<data key="genderx">Male</data>
+<data key="race">Unknown</data>
+</node>
+<node id="3175284">
+<data key="label">ORC COMMANDER</data>
+<data key="genderx">Male</data>
+<data key="race">Orc</data>
+</node>
+<node id="3175487">
+<data key="label">EOMER</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3178232">
+<data key="label">GORBAG</data>
+<data key="genderx">Male</data>
+<data key="race">Orc</data>
+</node>
+<node id="3175794">
+<data key="label">WITCH KING</data>
+<data key="genderx">Male</data>
+<data key="race">Undead</data>
+</node>
+<node id="3174448">
+<data key="label">ARWEN</data>
+<data key="genderx">Female</data>
+<data key="race">Elf</data>
+</node>
+<node id="3180709">
+<data key="label">BILBO</data>
+<data key="genderx">Male</data>
+<data key="race">Hobbit</data>
+</node>
+<node id="3173218">
+<data key="label">DEAGOL</data>
+<data key="genderx">Male</data>
+<data key="race">Unknown</data>
+</node>
+<node id="3180765">
+<data key="label">GALADRIEL</data>
+<data key="genderx">Female</data>
+<data key="race">Elf</data>
+</node>
+<node id="3176354">
+<data key="label">GAMLING</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3177249">
+<data key="label">GATE GUARD</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3177656">
+<data key="label">GOLLUM OS</data>
+<data key="genderx">Male</data>
+<data key="race">Unknown</data>
+</node>
+<node id="3177098">
+<data key="label">KING OF THE DEAD</data>
+<data key="genderx">Male</data>
+<data key="race">Undead</data>
+</node>
+<node id="3173945">
+<data key="label">LEGOLAS</data>
+<data key="genderx">Male</data>
+<data key="race">Elf</data>
+</node>
+<node id="3177307">
+<data key="label">LIEUTENANT</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3175503">
+<data key="label">MADRIL</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3175522">
+<data key="label">RANGER</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3178236">
+<data key="label">SHAGRAT</data>
+<data key="genderx">Male</data>
+<data key="race">Orc</data>
+</node>
+<node id="3175364">
+<data key="label">SOLDIER</data>
+<data key="genderx">Male</data>
+<data key="race">Human</data>
+</node>
+<node id="3173516">
+<data key="label">TREEBEARD</data>
+<data key="genderx">Male</data>
+<data key="race">Ent</data>
+</node>
+<edge source="3173660" target="3174453">
+<data key="edgeid">1021</data>
+<data key="edgelabel">112407</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173660" target="3175487">
+<data key="edgeid">1022</data>
+<data key="edgelabel">112365</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3173660" target="3173599">
+<data key="edgeid">1023</data>
+<data key="edgelabel">112364</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3173660" target="3173479">
+<data key="edgeid">1024</data>
+<data key="edgelabel">112424</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="3173660" target="3173945">
+<data key="edgeid">1025</data>
+<data key="edgelabel">112493</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173660" target="3173466">
+<data key="edgeid">1026</data>
+<data key="edgelabel">112480</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173660" target="3173462">
+<data key="edgeid">1027</data>
+<data key="edgelabel">112479</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173660" target="3173591">
+<data key="edgeid">1028</data>
+<data key="edgelabel">112360</data>
+<data key="weight">5.0</data>
+</edge>
+<edge source="3174448" target="3174453">
+<data key="edgeid">1029</data>
+<data key="edgelabel">112338</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3180709" target="3174453">
+<data key="edgeid">1030</data>
+<data key="edgelabel">112509</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3180709" target="3173355">
+<data key="edgeid">1031</data>
+<data key="edgelabel">112507</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3180709" target="3180765">
+<data key="edgeid">1032</data>
+<data key="edgelabel">112508</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3180709" target="3173474">
+<data key="edgeid">1033</data>
+<data key="edgelabel">112510</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3180709" target="3173334">
+<data key="edgeid">1034</data>
+<data key="edgelabel">112511</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3174733" target="3175271">
+<data key="edgeid">1035</data>
+<data key="edgelabel">112384</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3174733" target="3176354">
+<data key="edgeid">1036</data>
+<data key="edgelabel">112395</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3174733" target="3173474">
+<data key="edgeid">1037</data>
+<data key="edgelabel">112429</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3174733" target="3175604">
+<data key="edgeid">1038</data>
+<data key="edgelabel">112426</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3174453" target="3173355">
+<data key="edgeid">1039</data>
+<data key="edgelabel">112519</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3174453" target="3173474">
+<data key="edgeid">1040</data>
+<data key="edgelabel">112517</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3174453" target="3173334">
+<data key="edgeid">1041</data>
+<data key="edgelabel">112518</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175487" target="3173945">
+<data key="edgeid">1042</data>
+<data key="edgelabel">112496</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175487" target="3173591">
+<data key="edgeid">1043</data>
+<data key="edgelabel">112460</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3173599" target="3175487">
+<data key="edgeid">1044</data>
+<data key="edgelabel">112366</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="3173599" target="3173474">
+<data key="edgeid">1045</data>
+<data key="edgelabel">112315</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173599" target="3173479">
+<data key="edgeid">1046</data>
+<data key="edgelabel">112469</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173599" target="3175262">
+<data key="edgeid">1047</data>
+<data key="edgelabel">112452</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173599" target="3173591">
+<data key="edgeid">1048</data>
+<data key="edgelabel">112453</data>
+<data key="weight">5.0</data>
+</edge>
+<edge source="3175271" target="3175262">
+<data key="edgeid">1049</data>
+<data key="edgelabel">112356</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3175271" target="3175284">
+<data key="edgeid">1050</data>
+<data key="edgelabel">112357</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175271" target="3175522">
+<data key="edgeid">1051</data>
+<data key="edgelabel">112370</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173355" target="3173306">
+<data key="edgeid">1052</data>
+<data key="edgelabel">112390</data>
+<data key="weight">4.0</data>
+</edge>
+<edge source="3173355" target="3177656">
+<data key="edgeid">1053</data>
+<data key="edgelabel">112436</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3173355" target="3173334">
+<data key="edgeid">1054</data>
+<data key="edgelabel">112501</data>
+<data key="weight">10.0</data>
+</edge>
+<edge source="3173355" target="3173224">
+<data key="edgeid">1055</data>
+<data key="edgelabel">112433</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="3180765" target="3174453">
+<data key="edgeid">1056</data>
+<data key="edgelabel">112513</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3180765" target="3173355">
+<data key="edgeid">1057</data>
+<data key="edgelabel">112516</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3180765" target="3173474">
+<data key="edgeid">1058</data>
+<data key="edgelabel">112514</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3180765" target="3173334">
+<data key="edgeid">1059</data>
+<data key="edgelabel">112515</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3176354" target="3173591">
+<data key="edgeid">1060</data>
+<data key="edgelabel">112410</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3173660">
+<data key="edgeid">1061</data>
+<data key="edgelabel">112330</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="3173474" target="3175487">
+<data key="edgeid">1062</data>
+<data key="edgelabel">112489</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3175271">
+<data key="edgeid">1063</data>
+<data key="edgelabel">112391</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3173355">
+<data key="edgeid">1064</data>
+<data key="edgelabel">112521</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3173479">
+<data key="edgeid">1065</data>
+<data key="edgelabel">112306</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3173474" target="3173945">
+<data key="edgeid">1066</data>
+<data key="edgelabel">112490</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3173466">
+<data key="edgeid">1067</data>
+<data key="edgelabel">112333</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3173474" target="3173462">
+<data key="edgeid">1068</data>
+<data key="edgelabel">112328</data>
+<data key="weight">8.0</data>
+</edge>
+<edge source="3173474" target="3173334">
+<data key="edgeid">1069</data>
+<data key="edgelabel">112520</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3175364">
+<data key="edgeid">1070</data>
+<data key="edgelabel">112359</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3173591">
+<data key="edgeid">1071</data>
+<data key="edgelabel">112329</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173474" target="3173516">
+<data key="edgeid">1072</data>
+<data key="edgelabel">112307</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3177249" target="3175604">
+<data key="edgeid">1073</data>
+<data key="edgelabel">112425</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173479" target="3175487">
+<data key="edgeid">1074</data>
+<data key="edgelabel">112494</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173479" target="3173945">
+<data key="edgeid">1075</data>
+<data key="edgelabel">112412</data>
+<data key="weight">4.0</data>
+</edge>
+<edge source="3173479" target="3173466">
+<data key="edgeid">1076</data>
+<data key="edgelabel">112478</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173479" target="3173462">
+<data key="edgeid">1077</data>
+<data key="edgelabel">112477</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173479" target="3173591">
+<data key="edgeid">1078</data>
+<data key="edgelabel">112471</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173479" target="3173516">
+<data key="edgeid">1079</data>
+<data key="edgelabel">112308</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3177656" target="3173306">
+<data key="edgeid">1080</data>
+<data key="edgelabel">112443</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3178232" target="3173355">
+<data key="edgeid">1081</data>
+<data key="edgelabel">112484</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3178232" target="3173334">
+<data key="edgeid">1082</data>
+<data key="edgelabel">112483</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175262" target="3177307">
+<data key="edgeid">1083</data>
+<data key="edgelabel">112427</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175262" target="3173466">
+<data key="edgeid">1084</data>
+<data key="edgelabel">112456</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175262" target="3175284">
+<data key="edgeid">1085</data>
+<data key="edgelabel">112358</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175262" target="3173591">
+<data key="edgeid">1086</data>
+<data key="edgelabel">112455</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175604" target="3175271">
+<data key="edgeid">1087</data>
+<data key="edgelabel">112373</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175604" target="3173474">
+<data key="edgeid">1088</data>
+<data key="edgelabel">112374</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175604" target="3173462">
+<data key="edgeid">1089</data>
+<data key="edgelabel">112375</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3177098" target="3173660">
+<data key="edgeid">1090</data>
+<data key="edgelabel">112422</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3177098" target="3173479">
+<data key="edgeid">1091</data>
+<data key="edgelabel">112423</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3177098" target="3173466">
+<data key="edgeid">1092</data>
+<data key="edgelabel">112475</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3177098" target="3173462">
+<data key="edgeid">1093</data>
+<data key="edgelabel">112474</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175503" target="3175271">
+<data key="edgeid">1094</data>
+<data key="edgelabel">112367</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175503" target="3175262">
+<data key="edgeid">1095</data>
+<data key="edgelabel">112369</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175503" target="3175522">
+<data key="edgeid">1096</data>
+<data key="edgelabel">112368</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173466" target="3175487">
+<data key="edgeid">1097</data>
+<data key="edgelabel">112420</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173466" target="3173599">
+<data key="edgeid">1098</data>
+<data key="edgelabel">112419</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3173466" target="3173462">
+<data key="edgeid">1099</data>
+<data key="edgelabel">112325</data>
+<data key="weight">4.0</data>
+</edge>
+<edge source="3173466" target="3173516">
+<data key="edgeid">1100</data>
+<data key="edgelabel">112305</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175284" target="3173479">
+<data key="edgeid">1101</data>
+<data key="edgelabel">112465</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173462" target="3174733">
+<data key="edgeid">1102</data>
+<data key="edgelabel">112382</data>
+<data key="weight">4.0</data>
+</edge>
+<edge source="3173462" target="3175271">
+<data key="edgeid">1103</data>
+<data key="edgelabel">112383</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173462" target="3173516">
+<data key="edgeid">1104</data>
+<data key="edgelabel">112302</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175522" target="3175262">
+<data key="edgeid">1105</data>
+<data key="edgelabel">112372</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173334" target="3173306">
+<data key="edgeid">1106</data>
+<data key="edgelabel">112387</data>
+<data key="weight">4.0</data>
+</edge>
+<edge source="3173334" target="3178236">
+<data key="edgeid">1107</data>
+<data key="edgelabel">112448</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173334" target="3173224">
+<data key="edgeid">1108</data>
+<data key="edgelabel">112385</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3178236" target="3178232">
+<data key="edgeid">1109</data>
+<data key="edgelabel">112482</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173224" target="3173218">
+<data key="edgeid">1110</data>
+<data key="edgelabel">112294</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173224" target="3173306">
+<data key="edgeid">1111</data>
+<data key="edgelabel">112319</data>
+<data key="weight">3.0</data>
+</edge>
+<edge source="3173591" target="3174733">
+<data key="edgeid">1112</data>
+<data key="edgelabel">112393</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173591" target="3174453">
+<data key="edgeid">1113</data>
+<data key="edgelabel">112406</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3173591" target="3173466">
+<data key="edgeid">1114</data>
+<data key="edgelabel">112416</data>
+<data key="weight">2.0</data>
+</edge>
+<edge source="3175794" target="3173599">
+<data key="edgeid">1115</data>
+<data key="edgelabel">112466</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175794" target="3173479">
+<data key="edgeid">1116</data>
+<data key="edgelabel">112467</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175794" target="3175262">
+<data key="edgeid">1117</data>
+<data key="edgelabel">112380</data>
+<data key="weight">1.0</data>
+</edge>
+<edge source="3175794" target="3173591">
+<data key="edgeid">1118</data>
+<data key="edgelabel">112468</data>
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
