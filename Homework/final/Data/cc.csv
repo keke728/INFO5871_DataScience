@@ -1,0 +1,1549 @@
+user_id,vis_type,model_type,color_ramp_index,target_value,selected_value,aesthetic_rating,trial_number,age,occupation,gender,normal_vision,cdv,hours_per_day_on_computer,education,display_type,display_size_inches,design_experience,comments
+2,heatmap,designer,1,6,6,0,1,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,designer,8,5,3,-20,2,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,linear,21,8,8,27,3,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,designer,11,6,6,24,4,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,bayesian,24,4,3,37,5,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,kmeans,14,1,0,-26,6,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,kmeans,18,4,4,-21,7,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,linear,6,8,7,44,8,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,bayesian,0,2,3,-16,10,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,bayesian,10,1,0,0,11,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,bayesian,13,3,4,42,12,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,designer,16,2,3,30,13,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,bayesian,22,2,3,30,14,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,linear,5,5,6,34,15,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,linear,11,3,4,30,16,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,kmeans,5,4,5,29,17,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,kmeans,24,2,4,59,18,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,kmeans,2,7,6,-43,19,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,linear,14,8,8,-50,20,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,bayesian,1,8,8,53,21,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,bayesian,25,5,6,47,22,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,designer,6,1,0,48,23,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,linear,1,3,3,-41,24,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,designer,12,7,7,32,25,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,designer,17,6,6,47,27,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,kmeans,15,0,0,-5,28,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,linear,18,2,3,-59,29,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,designer,20,8,8,83,30,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,kmeans,26,6,5,62,31,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,kmeans,8,2,2,52,32,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,linear,8,4,4,46,33,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,designer,2,2,3,-32,34,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,bayesian,8,5,4,37,35,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,heatmap,bayesian,4,2,3,-50,36,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,scatter,kmeans,25,7,6,40,37,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+2,choropleth,linear,17,0,0,43,38,30,Service Designer,Male,yes,no,6,graduateStudies,phone,4,8,
+3,heatmap,linear,12,5,5,-9,0,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,designer,10,0,0,100,1,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,linear,15,6,6,74,2,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,linear,21,6,5,64,3,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,kmeans,12,1,0,33,4,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,bayesian,6,4,5,34,5,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,designer,16,4,3,38,6,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,designer,9,8,8,-8,7,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,kmeans,15,4,3,84,8,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,bayesian,1,0,0,43,9,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,linear,1,7,6,86,10,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,kmeans,3,1,2,95,11,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,designer,0,0,7,75,12,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,kmeans,2,3,3,72,13,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,bayesian,23,1,1,62,14,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,linear,17,5,5,30,15,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,kmeans,4,5,6,49,16,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,kmeans,16,7,7,50,18,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,bayesian,25,4,4,90,19,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,linear,8,5,5,12,20,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,designer,8,4,3,-90,21,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,linear,0,1,2,33,22,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,bayesian,4,3,4,8,23,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,bayesian,5,7,7,76,24,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,designer,4,0,0,55,25,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,kmeans,7,2,3,79,26,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,bayesian,13,3,3,27,28,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,bayesian,19,0,0,27,29,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,kmeans,8,1,1,74,30,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,bayesian,3,8,8,55,31,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,linear,11,5,5,50,32,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,designer,15,0,0,88,34,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,kmeans,25,0,0,57,35,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,choropleth,designer,22,2,2,73,36,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,scatter,designer,18,6,6,88,37,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+3,heatmap,linear,18,5,5,60,38,57,Web Developer,Female,yes,no,8,highSchool,desktop,17,10,
+5,scatter,linear,24,6,5,9,0,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,bayesian,3,3,3,55,1,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,kmeans,18,5,5,43,2,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,bayesian,5,1,2,78,3,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,linear,26,2,2,100,4,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,kmeans,23,4,4,80,5,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,designer,7,8,8,64,6,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,linear,14,7,7,-22,7,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,designer,22,8,8,35,8,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,bayesian,20,8,8,13,9,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,kmeans,17,1,1,57,10,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,kmeans,3,3,3,30,11,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,designer,17,5,5,59,12,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,kmeans,4,8,8,-33,13,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,bayesian,23,0,0,76,14,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,linear,15,8,8,-44,15,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,bayesian,11,8,8,83,16,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,bayesian,19,4,4,53,17,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,bayesian,21,1,1,56,18,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,kmeans,24,2,2,27,19,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,linear,16,6,3,-90,20,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,designer,25,6,5,49,21,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,linear,10,8,8,-64,22,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,designer,26,6,6,96,24,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,bayesian,9,7,7,39,25,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,kmeans,9,6,5,99,26,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,designer,23,7,7,-70,27,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,designer,10,4,5,74,28,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,linear,18,1,1,10,29,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,kmeans,2,3,3,-92,30,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,linear,6,4,4,0,31,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,designer,1,8,8,57,32,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,choropleth,kmeans,0,2,2,38,33,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,linear,22,7,7,-58,34,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,heatmap,designer,19,6,7,61,35,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+5,scatter,bayesian,7,5,5,33,37,28,UI Designer,Male,yes,no,10,someCollege,laptop,13,7,Use both hue and tint
+6,scatter,bayesian,26,7,6,53,0,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,bayesian,10,7,6,78,1,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,kmeans,3,4,4,78,2,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,designer,13,2,3,38,3,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,bayesian,3,5,5,56,4,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,designer,6,2,4,25,5,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,kmeans,21,6,5,0,6,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,linear,3,8,8,47,7,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,designer,16,2,2,-35,9,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,bayesian,17,3,4,0,10,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,bayesian,21,2,2,0,11,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,linear,5,6,6,0,12,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,linear,1,0,1,44,13,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,bayesian,18,3,4,30,14,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,kmeans,8,5,6,86,15,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,bayesian,15,1,0,44,16,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,kmeans,0,0,0,-74,17,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,bayesian,9,6,7,-82,18,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,linear,24,4,5,0,20,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,kmeans,13,4,4,21,22,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,linear,20,4,5,0,23,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,designer,14,1,0,0,24,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,bayesian,5,2,2,0,25,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,designer,7,3,5,0,26,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,kmeans,25,4,4,31,27,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,linear,8,1,0,0,28,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,linear,9,7,6,-70,29,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,kmeans,23,3,4,70,30,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,linear,14,4,5,0,31,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,designer,25,1,1,69,32,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,designer,20,1,2,69,33,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,linear,21,2,2,0,34,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,kmeans,17,3,4,80,35,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,scatter,designer,24,3,3,0,36,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,choropleth,designer,22,2,1,0,37,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+6,heatmap,kmeans,18,8,8,0,38,40,Design,Male,yes,no,8,collegeGraduate,laptop,24,16,kerouan@gmail.com
+7,heatmap,bayesian,0,6,5,-42,0,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,kmeans,24,5,5,-42,1,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,kmeans,18,7,6,-26,2,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,linear,6,7,4,-87,3,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,designer,20,8,8,35,4,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,bayesian,26,2,3,-43,5,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,linear,1,8,8,-43,6,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,linear,19,7,7,-33,7,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,designer,24,6,6,-85,8,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,designer,11,2,2,-65,9,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,designer,23,3,4,-37,10,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,designer,15,8,8,-15,11,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,bayesian,13,6,7,-44,12,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,linear,5,2,2,-24,13,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,designer,13,7,6,41,14,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,kmeans,9,7,8,11,15,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,linear,14,0,2,-82,17,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,designer,4,8,8,9,18,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,bayesian,19,2,3,9,19,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,kmeans,17,8,8,9,20,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,bayesian,1,8,8,-19,21,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,bayesian,25,8,8,24,22,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,kmeans,14,4,3,10,23,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,bayesian,8,7,8,13,24,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,kmeans,6,5,4,12,25,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,linear,26,5,5,16,26,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,kmeans,19,1,1,9,27,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,bayesian,17,7,6,11,28,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,linear,18,7,7,11,30,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,designer,26,1,1,53,31,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,linear,20,0,0,9,32,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,kmeans,1,3,3,22,33,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,bayesian,21,8,8,8,34,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,scatter,kmeans,0,4,4,15,35,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,choropleth,linear,24,6,7,-10,36,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+7,heatmap,designer,2,6,5,6,37,35,Graphic Design/Marketing,Male,yes,no,10,collegeGraduate,desktop,27,15,john@gawley.com
+8,choropleth,linear,14,5,4,-64,0,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,bayesian,24,3,3,-49,1,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,bayesian,2,5,6,33,2,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,linear,1,3,4,33,3,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,linear,17,6,5,-45,4,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,bayesian,0,7,6,41,5,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,designer,13,4,4,-98,6,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,designer,8,6,7,-80,7,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,kmeans,20,3,4,-45,8,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,designer,24,2,3,12,9,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,kmeans,4,5,4,19,10,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,linear,22,4,6,24,11,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,bayesian,1,8,4,54,12,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,linear,8,7,4,-49,13,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,linear,21,4,3,-25,15,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,bayesian,26,0,1,20,16,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,bayesian,3,3,4,36,17,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,bayesian,12,0,0,59,18,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,kmeans,11,1,2,-19,19,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,designer,17,4,5,-27,20,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,kmeans,7,2,3,26,21,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,kmeans,14,0,0,72,22,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,kmeans,12,6,5,-54,23,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,designer,0,7,7,-43,24,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,kmeans,15,8,8,52,25,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,kmeans,2,1,0,-21,26,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,kmeans,8,1,2,29,28,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,linear,9,8,7,43,29,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,designer,16,6,6,32,31,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,designer,10,4,5,19,32,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,designer,4,1,2,-32,33,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,choropleth,bayesian,9,1,2,-41,34,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,heatmap,designer,21,6,5,-61,35,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,linear,20,8,8,40,36,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,linear,18,2,1,-52,37,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+8,scatter,bayesian,18,3,3,-44,38,35,,Female,yes,no,12,graduateStudies,phone,6,0,
+9,choropleth,designer,9,3,3,-51,0,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,bayesian,8,6,5,41,1,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,kmeans,14,5,5,55,3,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,designer,8,8,8,-100,4,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,bayesian,16,6,7,56,5,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,linear,0,2,3,5,6,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,kmeans,15,2,2,-79,7,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,linear,15,3,3,40,8,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,kmeans,21,2,2,73,9,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,kmeans,0,4,4,95,10,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,designer,21,6,6,100,12,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,designer,14,4,5,-100,13,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,bayesian,5,7,6,100,14,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,bayesian,6,2,3,-30,15,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,bayesian,19,7,7,74,16,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,kmeans,13,6,4,71,17,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,kmeans,20,0,0,39,18,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,kmeans,12,4,4,19,19,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,kmeans,10,6,6,100,20,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,designer,25,2,3,-90,21,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,linear,19,1,2,61,22,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,bayesian,17,2,2,92,24,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,linear,5,4,4,96,25,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,linear,13,2,2,-76,26,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,designer,10,0,0,-23,27,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,heatmap,linear,3,4,4,89,28,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,bayesian,20,3,3,-72,29,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,designer,17,8,8,-88,30,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,linear,26,4,5,-10,31,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,designer,11,7,6,-47,32,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,bayesian,25,2,2,0,33,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,kmeans,4,6,5,-80,34,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,linear,23,8,8,-48,35,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,linear,12,2,2,54,36,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,choropleth,bayesian,4,8,8,-12,37,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+9,scatter,designer,3,4,3,-100,38,24,Interactive and Visual Designer,Female,yes,no,8,collegeGraduate,laptop,15,4,"I based my answers on two factors. I rated high if:
+- There was a good range in colors"
+10,scatter,kmeans,14,4,4,14,0,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,kmeans,1,0,0,-26,1,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,kmeans,22,7,6,31,2,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,designer,7,8,8,38,3,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,bayesian,21,1,1,38,4,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,kmeans,0,6,5,55,5,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,kmeans,13,1,1,22,6,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,linear,17,1,1,0,7,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,linear,24,5,5,-35,9,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,designer,14,5,5,78,10,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,designer,19,1,2,27,11,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,designer,1,2,2,0,12,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,designer,5,5,4,0,13,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,linear,1,3,4,50,14,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,bayesian,8,3,3,49,16,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,bayesian,14,7,6,-23,17,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,bayesian,2,0,0,-17,18,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,linear,3,6,5,22,19,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,linear,5,8,8,-27,20,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,designer,0,7,4,-26,21,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,designer,12,3,3,-65,22,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,kmeans,26,8,7,23,23,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,kmeans,19,6,4,61,25,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,kmeans,7,3,4,30,26,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,linear,14,6,5,-85,27,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,bayesian,17,5,4,52,28,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,bayesian,22,1,1,-57,29,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,linear,15,3,4,0,30,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,bayesian,16,8,7,16,31,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,bayesian,6,7,6,21,32,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,kmeans,11,7,6,-30,33,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,designer,26,0,0,22,34,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,scatter,linear,9,6,4,62,35,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,bayesian,15,1,1,26,36,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,heatmap,designer,23,8,7,19,37,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+10,choropleth,linear,26,3,3,-33,38,32,Product Designer,Female,yes,no,5,collegeGraduate,desktop,26,11,
+11,choropleth,kmeans,20,3,3,-100,0,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,linear,19,1,1,-100,1,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,linear,16,6,7,-100,2,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,bayesian,7,7,8,-66,3,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,bayesian,19,5,4,-49,4,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,kmeans,7,5,6,0,5,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,kmeans,18,4,5,17,6,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,kmeans,3,5,4,-28,7,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,linear,25,7,6,25,8,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,kmeans,13,1,1,-11,10,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,kmeans,19,0,0,48,11,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,designer,25,4,5,-37,12,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,designer,15,0,0,-16,13,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,bayesian,13,5,4,-12,14,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,kmeans,9,2,2,38,15,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,bayesian,14,5,3,-12,16,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,designer,18,8,8,8,17,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,linear,5,8,8,11,18,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,designer,24,5,6,10,19,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,linear,20,2,3,-10,20,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,linear,15,7,7,12,21,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,designer,1,0,0,55,22,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,bayesian,2,0,0,43,23,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,designer,10,3,4,-59,24,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,linear,10,0,0,16,25,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,kmeans,17,1,2,-11,26,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,bayesian,8,6,7,10,27,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,bayesian,23,4,5,-74,28,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,designer,23,8,8,29,29,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,linear,14,8,7,13,30,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,bayesian,3,5,5,-9,31,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,linear,7,2,4,-10,32,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,designer,14,5,5,15,33,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,scatter,bayesian,20,2,3,-10,34,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,choropleth,designer,13,2,3,100,36,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+11,heatmap,kmeans,1,8,7,13,37,31,Analyst,Female,yes,no,10,collegeGraduate,laptop,15,6,
+13,heatmap,designer,8,8,7,-41,0,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,bayesian,22,6,6,-28,1,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,linear,5,6,7,-27,2,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,linear,3,7,7,0,3,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,linear,26,5,5,0,4,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,designer,4,3,4,0,5,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,designer,6,1,1,0,6,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,bayesian,10,1,2,23,8,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,designer,17,1,3,0,10,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,kmeans,3,2,3,0,11,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,designer,22,4,7,0,13,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,bayesian,18,2,3,14,14,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,bayesian,20,0,0,0,15,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,bayesian,4,6,7,0,16,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,kmeans,16,1,2,0,17,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,designer,24,3,4,-27,18,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,kmeans,5,1,2,0,19,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,kmeans,17,6,7,0,20,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,kmeans,4,4,6,0,21,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,linear,4,1,3,0,22,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,kmeans,15,2,3,0,23,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,bayesian,6,2,3,0,24,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,kmeans,0,3,2,12,25,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,kmeans,11,6,4,18,26,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,kmeans,13,1,3,0,27,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,designer,7,4,5,0,28,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,bayesian,7,2,4,0,29,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,linear,19,5,6,0,30,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,linear,20,4,1,-32,31,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,designer,20,2,3,0,32,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,designer,10,0,1,0,33,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,linear,1,2,4,0,34,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,heatmap,linear,8,7,6,0,35,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,choropleth,bayesian,23,4,5,0,36,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,bayesian,13,8,8,0,37,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+13,scatter,linear,11,3,3,0,38,29,,Male,yes,no,9,someCollege,desktop,-1,2,
+14,choropleth,kmeans,9,2,2,0,0,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,bayesian,2,6,6,0,1,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,bayesian,25,8,8,0,2,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,kmeans,11,6,5,0,3,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,kmeans,14,7,7,0,4,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,linear,10,3,3,0,6,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,designer,5,1,1,0,7,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,kmeans,24,2,2,0,8,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,bayesian,4,3,3,0,9,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,designer,14,1,1,0,11,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,bayesian,19,5,5,0,12,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,linear,1,2,3,0,13,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,kmeans,13,0,1,0,14,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,linear,12,7,6,0,15,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,kmeans,5,8,8,0,16,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,designer,7,3,4,0,17,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,linear,25,6,5,0,18,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,linear,18,0,0,0,19,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,kmeans,25,3,4,0,20,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,designer,21,2,2,0,21,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,linear,9,1,1,0,23,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,linear,15,4,3,0,24,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,bayesian,14,1,1,0,25,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,designer,18,6,4,0,26,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,kmeans,20,6,5,0,27,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,linear,14,1,2,0,28,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,bayesian,18,6,7,0,29,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,bayesian,17,7,7,0,30,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,linear,26,3,4,0,31,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,designer,23,8,8,0,32,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,kmeans,3,8,8,0,33,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,designer,25,4,4,0,34,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,scatter,designer,4,7,6,0,35,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,choropleth,bayesian,10,0,0,0,36,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,bayesian,11,3,2,0,37,25,,Female,yes,no,8,someCollege,desktop,0,2,
+14,heatmap,designer,17,1,2,0,38,25,,Female,yes,no,8,someCollege,desktop,0,2,
+15,choropleth,designer,12,2,4,0,0,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,bayesian,18,6,6,47,1,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,linear,4,7,7,37,2,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,kmeans,13,6,7,42,3,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,bayesian,23,6,3,0,4,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,kmeans,7,7,8,0,5,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,linear,5,0,0,29,6,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,designer,2,8,8,0,7,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,linear,22,6,7,0,8,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,bayesian,21,3,3,0,9,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,bayesian,11,6,5,0,11,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,designer,6,8,8,46,12,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,designer,7,8,8,77,13,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,bayesian,20,6,6,0,14,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,bayesian,16,1,2,0,15,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,kmeans,11,1,1,0,17,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,bayesian,3,4,5,0,18,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,designer,5,4,5,0,19,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,kmeans,19,6,5,99,20,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,linear,3,5,5,0,21,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,designer,16,2,5,0,22,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,linear,8,3,3,0,23,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,bayesian,1,1,2,-21,24,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,linear,9,5,6,0,25,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,designer,4,3,5,31,26,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,designer,22,3,5,0,27,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,linear,19,3,2,0,28,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,linear,14,0,0,-35,29,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,choropleth,kmeans,3,6,7,0,30,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,kmeans,25,2,3,45,31,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,bayesian,25,0,0,53,32,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,kmeans,9,7,7,15,33,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,linear,16,3,4,-91,34,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,scatter,designer,24,6,6,0,35,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,kmeans,1,5,6,-13,36,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+15,heatmap,kmeans,12,4,5,29,37,20,,Male,yes,no,5,collegeGraduate,laptop,13,0,it so cool
+16,choropleth,kmeans,3,1,1,39,1,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,bayesian,12,5,6,0,2,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,kmeans,1,4,6,-41,3,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,bayesian,22,6,6,-100,4,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,designer,25,4,3,26,5,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,designer,22,7,8,18,6,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,bayesian,16,2,3,-23,7,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,linear,14,5,6,-100,9,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,kmeans,7,6,5,100,10,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,linear,12,7,7,-20,11,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,kmeans,10,1,1,0,12,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,linear,11,4,5,16,13,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,designer,16,2,1,21,14,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,designer,6,5,6,-2,15,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,kmeans,24,6,6,16,16,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,linear,7,0,0,-13,17,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,linear,18,7,7,-24,18,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,kmeans,8,0,1,46,19,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,bayesian,15,0,0,0,20,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,kmeans,17,3,4,55,21,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,designer,21,1,1,21,22,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,designer,13,6,6,-100,24,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,linear,4,8,8,33,25,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,linear,13,1,1,-12,26,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,bayesian,26,7,7,-16,27,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,kmeans,23,1,1,100,28,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,designer,12,5,6,-12,29,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,linear,10,8,8,12,30,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,choropleth,bayesian,4,0,0,-12,31,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,kmeans,26,2,1,23,32,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,bayesian,24,0,0,-15,33,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,linear,22,7,8,-100,34,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,bayesian,13,4,5,30,35,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,heatmap,bayesian,18,0,0,13,36,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,designer,11,1,1,-5,37,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+16,scatter,designer,17,2,2,-5,38,27,,Male,yes,no,10,graduateStudies,desktop,27,3,
+17,scatter,kmeans,2,2,2,0,0,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,designer,21,0,0,0,1,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,bayesian,25,8,8,0,2,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,designer,8,7,7,0,3,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,kmeans,1,0,0,0,4,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,linear,2,3,0,0,5,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,linear,19,5,3,0,6,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,linear,9,4,3,0,7,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,kmeans,0,8,8,0,8,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,linear,6,3,1,0,9,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,kmeans,15,5,6,0,10,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,linear,16,3,0,0,12,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,kmeans,21,1,0,0,13,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,bayesian,15,6,5,0,14,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,linear,8,3,3,0,15,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,designer,2,5,5,0,16,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,linear,4,4,5,0,17,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,designer,5,7,6,0,18,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,kmeans,13,0,0,0,19,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,bayesian,17,7,7,0,20,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,bayesian,26,7,7,0,21,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,bayesian,22,8,8,0,22,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,kmeans,7,7,8,0,23,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,scatter,bayesian,8,2,2,0,24,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,bayesian,5,6,8,0,27,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,linear,23,4,5,0,28,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,linear,24,6,5,0,29,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,designer,18,3,2,0,30,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,designer,20,7,7,0,31,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,bayesian,7,5,5,0,32,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,designer,22,0,0,0,33,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,choropleth,designer,25,8,8,0,34,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,kmeans,14,7,8,0,35,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,designer,19,6,6,0,36,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,bayesian,18,6,5,0,37,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+17,heatmap,kmeans,8,7,7,0,38,24,,Male,yes,no,10,collegeGraduate,desktop,1,2,
+19,choropleth,kmeans,13,0,0,10,0,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,bayesian,22,6,6,9,1,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,designer,25,1,2,9,2,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,bayesian,5,0,0,-7,3,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,bayesian,14,3,3,6,4,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,kmeans,20,8,8,-13,5,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,bayesian,23,0,0,-12,7,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,designer,22,0,0,12,8,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,kmeans,3,3,2,11,9,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,kmeans,21,2,2,11,10,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,linear,6,4,5,-7,11,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,designer,7,0,0,12,12,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,bayesian,18,6,5,10,13,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,linear,19,7,7,11,14,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,kmeans,23,8,8,10,15,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,linear,16,8,8,9,16,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,designer,10,8,8,-25,17,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,linear,5,3,2,-9,18,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,linear,21,6,4,23,19,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,bayesian,26,6,5,-6,20,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,bayesian,9,5,5,0,21,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,linear,26,0,0,-6,23,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,linear,20,8,8,11,24,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,designer,2,6,5,-8,25,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,designer,23,0,0,6,26,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,bayesian,2,8,8,-8,27,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,bayesian,25,7,7,0,28,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,kmeans,0,6,6,-10,29,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,kmeans,19,1,1,-8,30,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,linear,4,6,5,8,31,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,linear,23,5,4,5,32,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,choropleth,designer,21,6,5,0,33,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,scatter,kmeans,15,8,8,32,35,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,designer,5,6,5,14,36,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,kmeans,25,8,7,-6,37,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+19,heatmap,designer,11,8,8,0,38,28,UI,Female,yes,no,12,collegeGraduate,laptop,15,1,
+20,heatmap,kmeans,24,6,5,-67,0,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,linear,8,2,2,-94,1,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,kmeans,20,0,0,-38,2,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,linear,18,3,1,-29,3,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,kmeans,8,0,0,-38,4,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,bayesian,11,0,0,87,6,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,kmeans,0,6,6,67,7,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,linear,4,6,5,77,8,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,linear,19,6,6,-39,9,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,kmeans,3,0,0,95,10,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,linear,12,3,3,-69,11,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,bayesian,22,2,2,27,12,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,designer,17,1,3,20,13,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,bayesian,16,4,3,-30,14,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,designer,11,2,2,-24,15,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,bayesian,24,0,0,-54,16,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,designer,14,2,3,-23,17,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,bayesian,4,0,0,-22,18,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,kmeans,15,5,4,83,20,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,designer,22,5,3,45,21,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,bayesian,1,7,6,12,22,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,designer,1,7,7,21,23,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,designer,7,8,8,46,24,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,bayesian,18,3,5,-21,25,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,kmeans,13,3,3,-22,26,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,linear,5,6,5,-19,27,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,kmeans,9,5,4,9,28,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,designer,13,3,4,-100,29,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,designer,6,0,0,75,31,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,bayesian,26,7,6,22,32,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,kmeans,7,0,0,100,33,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,heatmap,linear,1,5,4,33,34,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,linear,25,5,4,17,35,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,bayesian,20,4,2,-28,36,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,scatter,linear,6,0,0,25,37,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+20,choropleth,designer,18,1,0,75,38,28,,Male,yes,no,12,collegeGraduate,desktop,23,2,
+21,choropleth,kmeans,8,1,2,100,0,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,linear,23,0,1,100,1,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,bayesian,21,1,1,100,2,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,bayesian,25,8,8,100,3,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,bayesian,10,0,1,100,5,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,bayesian,19,6,5,100,7,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,designer,24,8,8,100,8,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,linear,14,8,8,100,10,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,designer,14,3,2,100,11,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,kmeans,23,1,1,100,12,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,designer,6,1,1,100,13,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,linear,13,4,5,0,14,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,designer,15,0,0,100,15,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,kmeans,7,1,1,0,16,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,kmeans,24,8,8,0,17,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,bayesian,0,8,8,0,18,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,kmeans,17,6,5,0,19,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,linear,17,2,4,0,20,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,designer,18,3,5,0,21,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,kmeans,3,4,6,0,22,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,bayesian,2,1,4,0,23,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,designer,26,2,2,0,24,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,designer,7,1,1,0,25,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,linear,6,7,5,0,26,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,bayesian,4,2,3,0,27,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,linear,5,1,1,0,28,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,linear,2,0,0,0,29,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,kmeans,19,2,2,0,30,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,bayesian,16,0,0,0,31,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,bayesian,5,0,0,0,32,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,designer,19,8,8,0,33,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,choropleth,linear,7,5,5,0,34,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,kmeans,22,7,6,0,35,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,kmeans,16,3,4,0,36,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,scatter,linear,8,5,5,0,37,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+21,heatmap,designer,9,1,2,0,38,22,beijing,Male,yes,yes,3,collegeGraduate,laptop,13,2,
+22,heatmap,kmeans,17,8,8,0,0,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,linear,18,4,5,0,1,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,bayesian,16,7,8,0,2,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,linear,8,4,5,0,4,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,designer,19,8,7,0,5,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,kmeans,4,7,7,0,7,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,designer,21,5,5,0,9,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,bayesian,24,0,1,0,10,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,designer,26,2,2,0,11,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,linear,16,4,6,0,12,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,bayesian,20,5,4,0,13,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,kmeans,15,8,8,21,14,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,designer,7,7,7,0,15,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,linear,11,8,8,0,16,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,bayesian,5,5,8,0,17,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,designer,8,5,3,0,18,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,kmeans,11,6,5,0,19,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,linear,20,2,2,0,20,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,linear,26,0,0,0,21,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,linear,19,0,0,0,22,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,linear,9,4,4,0,23,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,designer,25,4,4,0,24,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,bayesian,12,5,4,0,25,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,bayesian,25,2,2,-5,26,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,kmeans,3,8,8,10,27,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,kmeans,7,7,8,8,28,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,kmeans,22,7,7,-8,29,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,heatmap,designer,24,7,7,-15,30,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,designer,14,4,4,12,31,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,kmeans,18,7,7,8,32,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,kmeans,21,2,2,-8,33,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,bayesian,8,4,4,7,34,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,choropleth,bayesian,15,5,4,9,35,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,bayesian,26,0,0,0,36,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,linear,15,0,0,11,37,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+22,scatter,designer,4,4,4,9,38,23,,Female,yes,no,9,collegeGraduate,desktop,-1,3,
+23,heatmap,bayesian,26,6,6,-53,1,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,bayesian,22,6,6,-39,2,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,bayesian,25,0,0,0,3,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,designer,7,6,6,15,5,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,linear,13,2,2,-80,6,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,bayesian,19,8,8,0,7,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,linear,17,3,3,-61,8,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,designer,19,5,5,32,9,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,linear,5,1,1,55,11,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,linear,24,6,6,-32,12,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,designer,9,0,0,32,13,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,kmeans,13,0,0,26,14,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,bayesian,4,7,7,34,15,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,designer,4,8,8,53,16,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,bayesian,21,6,7,18,17,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,linear,6,4,5,-100,18,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,linear,11,2,1,-31,19,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,designer,12,2,2,14,20,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,bayesian,10,8,8,100,21,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,linear,19,4,4,-11,22,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,kmeans,17,4,4,-16,23,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,kmeans,7,5,5,20,24,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,kmeans,15,8,8,13,25,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,kmeans,8,1,1,100,26,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,bayesian,14,3,3,21,27,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,designer,20,4,4,33,28,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,kmeans,6,1,1,100,29,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,kmeans,1,0,0,100,30,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,designer,21,7,7,100,31,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,designer,6,4,5,32,32,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,linear,18,2,2,40,33,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,scatter,kmeans,22,4,4,27,34,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,linear,14,3,4,25,35,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,heatmap,bayesian,8,1,1,100,36,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,kmeans,19,3,3,100,37,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+23,choropleth,designer,18,1,1,-36,38,28,designer,Male,yes,no,10,collegeGraduate,desktop,8,5,
+24,heatmap,linear,15,7,7,-58,0,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,designer,10,7,6,-64,1,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,designer,9,5,6,-77,2,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,bayesian,12,6,6,-89,3,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,kmeans,21,1,1,-39,4,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,kmeans,25,1,1,-33,6,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,bayesian,19,0,0,18,8,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,bayesian,13,6,5,-33,9,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,designer,3,4,4,-36,10,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,kmeans,18,0,0,0,11,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,bayesian,15,8,8,-38,12,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,designer,22,4,5,0,13,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,designer,7,1,2,13,14,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,designer,16,6,7,25,15,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,designer,5,7,6,30,16,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,bayesian,17,3,4,-29,17,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,linear,2,8,7,-82,18,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,kmeans,24,2,3,-47,19,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,kmeans,11,8,8,-49,20,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,kmeans,14,3,4,-56,21,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,kmeans,6,3,4,38,22,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,designer,0,7,6,32,23,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,linear,13,2,4,-61,24,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,designer,25,3,4,-93,25,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,linear,23,6,7,-83,26,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,linear,3,7,7,44,27,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,linear,16,2,2,-93,28,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,kmeans,17,0,1,-76,29,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,bayesian,4,6,5,-66,30,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,bayesian,10,5,4,30,31,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,linear,12,6,6,-52,32,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,linear,4,3,2,-88,33,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,kmeans,5,3,3,-94,34,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,choropleth,bayesian,25,8,8,32,35,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,scatter,linear,26,7,7,-65,37,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+24,heatmap,bayesian,21,5,6,0,38,23,Student,Male,yes,no,6,someCollege,laptop,15,6,
+26,heatmap,linear,26,6,5,-7,0,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,kmeans,9,1,0,22,1,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,designer,7,8,8,0,2,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,bayesian,1,6,5,0,3,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,linear,2,0,0,0,5,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,linear,9,1,0,0,6,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,designer,23,1,0,-51,7,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,kmeans,24,2,1,0,8,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,designer,21,5,6,0,9,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,kmeans,10,3,4,0,10,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,bayesian,18,4,5,-26,11,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,linear,7,4,4,-65,12,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,linear,19,3,3,19,13,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,bayesian,9,6,6,10,14,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,designer,17,7,8,0,15,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,linear,14,3,4,17,16,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,kmeans,8,5,5,29,17,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,bayesian,16,2,2,-14,18,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,designer,24,7,7,0,19,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,linear,23,7,7,8,21,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,bayesian,2,8,8,0,22,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,designer,22,7,8,0,23,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,kmeans,5,2,2,0,25,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,linear,17,5,6,-67,26,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,designer,26,7,6,0,27,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,kmeans,14,1,1,42,28,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,bayesian,10,5,6,63,29,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,bayesian,8,6,5,0,30,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,designer,0,3,2,-60,31,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,linear,21,5,5,28,32,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,designer,12,7,7,27,33,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,choropleth,kmeans,7,4,4,0,34,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,bayesian,11,3,3,15,35,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,heatmap,kmeans,20,3,4,-18,36,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,kmeans,23,4,4,-14,37,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+26,scatter,bayesian,24,2,2,-28,38,55,Web designer free lancer,Female,yes,no,8,someCollege,desktop,16,1,The test is very interesting. Congratulations!
+27,choropleth,linear,12,4,5,-22,0,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,linear,3,5,6,29,1,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,bayesian,26,0,0,43,2,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,linear,25,5,6,43,3,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,linear,14,7,5,74,4,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,designer,15,0,0,100,5,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,kmeans,21,0,0,52,6,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,bayesian,19,8,8,82,7,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,kmeans,17,6,7,84,9,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,designer,4,7,6,79,10,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,kmeans,22,0,1,-71,11,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,kmeans,26,3,2,89,12,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,designer,16,2,2,65,13,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,designer,10,8,8,87,14,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,linear,15,6,6,42,16,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,bayesian,2,8,8,81,17,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,designer,1,4,5,27,18,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,designer,23,4,4,0,19,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,bayesian,25,2,2,0,20,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,designer,11,7,8,82,21,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,designer,25,6,7,83,22,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,kmeans,25,6,5,66,23,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,linear,13,3,3,67,24,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,bayesian,4,6,6,39,25,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,linear,9,2,1,-52,26,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,bayesian,17,8,8,-46,27,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,bayesian,12,6,6,68,29,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,kmeans,20,5,5,-69,30,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,linear,24,3,4,-64,31,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,kmeans,4,8,8,50,32,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,bayesian,8,1,1,65,33,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,bayesian,22,5,4,-59,34,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,kmeans,2,2,1,-45,35,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,scatter,kmeans,14,6,7,68,36,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,choropleth,linear,23,6,6,0,37,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+27,heatmap,designer,20,4,3,49,38,26,,Male,yes,no,8,collegeGraduate,phone,6,1,This was an interesting one. Thanks
+28,scatter,linear,8,6,4,-52,0,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,kmeans,2,7,7,19,1,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,linear,9,4,4,64,2,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,designer,20,5,4,16,3,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,designer,13,0,0,30,4,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,linear,23,4,6,-11,7,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,kmeans,0,4,3,-30,8,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,bayesian,24,0,0,17,9,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,kmeans,22,5,7,26,10,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,kmeans,26,4,3,16,11,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,kmeans,16,6,7,22,12,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,designer,8,5,2,-54,13,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,linear,10,0,1,37,14,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,bayesian,21,8,7,65,15,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,kmeans,24,2,3,16,16,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,bayesian,8,4,3,19,17,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,bayesian,5,5,5,18,18,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,kmeans,18,1,1,11,19,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,designer,23,5,6,-43,20,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,designer,1,7,7,26,21,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,kmeans,15,0,0,18,22,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,designer,17,3,4,-33,23,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,bayesian,20,3,4,-93,24,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,bayesian,16,1,2,16,26,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,designer,6,1,2,-27,27,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,choropleth,linear,26,2,3,21,28,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,designer,7,2,2,14,29,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,bayesian,13,0,1,-28,30,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,linear,13,6,6,32,31,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,kmeans,12,8,8,30,32,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,bayesian,10,8,8,19,33,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,linear,24,3,4,23,34,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,heatmap,linear,12,8,7,29,35,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,designer,5,6,5,-28,36,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,linear,25,4,8,29,37,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+28,scatter,bayesian,2,8,8,42,38,28,UX Designer,Female,yes,no,8,collegeGraduate,laptop,13,2,
+30,choropleth,designer,20,1,2,-90,0,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,bayesian,0,7,6,-71,1,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,linear,18,2,2,-78,2,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,bayesian,8,7,8,-83,3,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,bayesian,5,8,7,-47,4,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,kmeans,24,4,7,-59,5,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,linear,15,0,0,-35,6,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,bayesian,22,4,5,-54,7,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,designer,25,4,6,-45,8,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,kmeans,0,1,2,-72,9,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,designer,0,3,4,-57,10,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,designer,5,7,7,-28,11,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,designer,9,1,0,-37,12,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,linear,14,8,7,-86,13,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,kmeans,13,3,2,-64,14,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,linear,2,2,1,-70,15,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,kmeans,8,5,3,-57,16,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,bayesian,3,5,5,-15,18,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,kmeans,2,2,8,-16,19,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,kmeans,14,0,0,17,20,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,linear,25,6,7,-29,22,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,designer,12,5,7,-71,23,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,bayesian,18,0,0,0,24,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,linear,7,2,1,-70,25,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,bayesian,12,7,8,-41,26,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,linear,21,6,7,-37,27,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,bayesian,17,4,3,-39,28,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,linear,10,2,3,-49,29,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,designer,26,4,5,-46,30,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,kmeans,16,1,1,14,31,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,kmeans,20,4,4,0,32,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,bayesian,13,3,3,-28,33,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,designer,16,8,8,10,34,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,choropleth,designer,11,5,8,-14,35,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,heatmap,linear,20,4,5,-39,36,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+30,scatter,kmeans,26,0,0,39,38,46,Multi-displinary engineer,Male,yes,no,8,collegeGraduate,laptop,12,20,
+33,heatmap,linear,4,1,8,100,0,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,bayesian,26,3,5,48,1,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,bayesian,14,0,1,100,2,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,designer,10,5,7,100,3,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,designer,4,1,8,100,4,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,designer,26,3,7,100,5,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,kmeans,23,7,6,-38,6,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,bayesian,9,2,8,100,7,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,designer,23,4,8,100,8,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,kmeans,8,3,6,100,9,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,designer,24,2,6,59,10,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,bayesian,23,4,8,100,11,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,kmeans,15,3,6,100,12,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,linear,10,4,3,100,13,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,designer,0,0,5,80,14,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,kmeans,1,0,6,100,15,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,bayesian,21,0,5,100,16,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,linear,19,5,6,91,17,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,kmeans,6,7,6,100,18,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,bayesian,8,7,8,-41,19,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,kmeans,17,3,6,-36,20,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,linear,8,6,5,100,21,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,kmeans,4,7,1,-17,22,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,bayesian,20,7,5,17,24,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,kmeans,14,6,5,-18,25,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,kmeans,21,3,6,100,26,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,designer,16,8,2,100,27,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,linear,20,7,6,100,29,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,bayesian,5,8,8,100,30,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,designer,13,5,5,100,31,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,linear,21,6,8,100,32,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,linear,13,6,0,58,33,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,bayesian,0,5,6,-24,34,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,choropleth,designer,3,0,5,-53,35,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,scatter,linear,14,3,8,70,36,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+33,heatmap,linear,5,5,8,100,37,45,designer,Female,yes,no,3,graduateStudies,desktop,24,5,
+34,choropleth,designer,9,4,3,-100,0,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,kmeans,18,8,8,-9,1,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,designer,26,4,4,-29,2,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,linear,9,1,1,-27,4,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,designer,22,5,5,-100,5,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,linear,10,4,5,-100,6,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,linear,26,0,0,0,7,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,designer,1,1,3,-12,8,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,bayesian,2,0,1,-7,10,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,bayesian,23,2,2,-29,11,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,designer,13,8,8,16,12,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,bayesian,10,1,1,-61,13,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,kmeans,17,6,5,-79,14,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,designer,19,6,5,-62,15,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,designer,6,5,6,-100,16,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,kmeans,10,5,5,-62,17,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,linear,3,6,5,-69,18,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,bayesian,6,0,1,-38,19,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,linear,16,8,8,-100,20,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,kmeans,2,1,2,-52,22,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,kmeans,21,2,3,-100,23,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,linear,17,6,5,-44,24,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,linear,7,1,2,-54,25,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,bayesian,19,1,2,-50,26,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,designer,15,8,8,-59,27,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,designer,24,7,6,-46,28,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,bayesian,12,1,1,-64,29,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,kmeans,12,0,0,0,30,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,linear,4,6,5,-66,31,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,bayesian,0,7,8,-100,32,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,scatter,bayesian,22,5,4,-54,33,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,linear,14,0,1,-78,34,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,kmeans,6,5,6,-83,35,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,bayesian,4,1,2,-38,36,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,heatmap,kmeans,13,5,4,-51,37,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+34,choropleth,kmeans,26,5,6,-61,38,43,content strategist,noReply,yes,no,15,graduateStudies,laptop,15,15,
+35,heatmap,designer,14,3,2,0,0,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,designer,3,3,2,0,1,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,kmeans,10,2,2,0,2,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,designer,23,3,2,0,3,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,kmeans,14,5,6,0,4,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,kmeans,16,3,2,0,5,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,kmeans,15,0,0,0,6,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,bayesian,7,1,2,0,7,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,designer,16,7,7,0,8,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,bayesian,2,1,1,0,10,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,linear,24,4,3,0,11,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,kmeans,20,5,6,0,12,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,designer,13,3,3,0,14,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,bayesian,21,0,1,0,15,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,linear,8,7,6,0,16,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,designer,11,1,1,0,17,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,bayesian,13,4,3,0,18,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,designer,6,6,5,0,19,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,designer,19,3,4,0,20,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,kmeans,2,2,3,0,21,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,bayesian,11,1,1,0,23,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,bayesian,12,6,5,0,24,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,linear,6,5,4,0,25,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,linear,20,3,4,0,26,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,kmeans,22,2,2,0,27,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,linear,3,5,5,0,28,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,linear,19,4,3,0,29,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,bayesian,15,8,8,0,30,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,bayesian,16,0,0,0,31,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,kmeans,6,5,0,0,32,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,linear,22,8,7,0,33,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,linear,17,2,3,0,34,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,choropleth,kmeans,7,0,1,0,35,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,bayesian,5,5,5,0,36,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,heatmap,designer,20,8,8,0,37,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+35,scatter,linear,0,3,3,0,38,37,UX Writer,Female,yes,no,8,collegeGraduate,laptop,13,3,
+37,choropleth,designer,2,7,7,24,0,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,kmeans,4,6,6,-80,1,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,linear,15,6,6,-14,2,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,linear,10,0,1,0,4,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,kmeans,22,5,4,6,5,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,linear,16,0,0,-70,6,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,designer,14,0,1,37,7,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,designer,5,1,1,-81,8,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,linear,26,6,5,10,9,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,designer,9,1,3,-85,10,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,bayesian,11,1,2,53,11,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,kmeans,2,1,2,-74,12,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,designer,24,1,1,-94,13,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,bayesian,4,4,3,-83,15,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,linear,2,0,1,90,16,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,designer,16,5,5,-1,17,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,bayesian,9,4,5,5,18,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,designer,6,6,5,19,19,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,linear,8,6,3,-85,20,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,bayesian,3,2,3,8,21,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,kmeans,10,8,8,40,22,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,bayesian,24,6,6,-98,24,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,bayesian,21,7,7,82,25,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,bayesian,14,1,0,14,26,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,linear,18,6,6,-21,27,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,kmeans,8,1,1,13,28,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,bayesian,0,6,6,-56,29,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,bayesian,23,4,5,10,30,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,kmeans,13,1,1,0,31,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,linear,14,0,0,-100,32,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,kmeans,21,1,2,-62,33,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,designer,7,3,4,-70,34,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,designer,17,3,4,18,35,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,scatter,linear,22,8,8,-50,36,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,choropleth,kmeans,9,1,1,55,37,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+37,heatmap,kmeans,6,2,3,65,38,33,Technical writer,Male,yes,no,10,graduateStudies,desktop,26,0,
+38,heatmap,bayesian,7,4,5,-37,0,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,designer,15,6,6,56,1,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,bayesian,26,1,1,-17,2,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,linear,9,7,7,28,3,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,bayesian,15,2,2,1,4,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,designer,8,4,4,-21,5,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,designer,12,0,0,-7,7,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,linear,7,6,6,8,8,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,linear,2,8,8,17,9,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,kmeans,6,8,8,14,11,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,bayesian,12,7,7,46,12,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,linear,0,3,3,-58,13,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,bayesian,0,7,5,63,14,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,kmeans,8,5,5,9,15,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,kmeans,5,1,1,16,16,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,kmeans,14,7,7,12,17,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,designer,14,6,7,28,18,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,designer,9,8,8,-63,19,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,linear,4,4,4,37,20,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,bayesian,14,6,5,58,21,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,linear,14,1,1,-40,22,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,kmeans,18,3,3,13,23,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,bayesian,25,6,5,63,24,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,kmeans,0,1,1,11,25,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,linear,1,2,1,62,26,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,linear,23,1,1,55,27,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,designer,2,6,6,52,28,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,kmeans,7,7,7,25,29,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,designer,25,8,8,25,30,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,bayesian,6,1,2,-18,31,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,heatmap,kmeans,21,0,0,20,32,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,linear,24,6,4,-8,33,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,designer,19,1,2,38,34,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,bayesian,4,7,7,-42,35,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,scatter,designer,23,1,1,35,36,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+38,choropleth,kmeans,24,3,3,11,37,42,Designer,Female,yes,no,7,collegeGraduate,laptop,15,12,
+39,choropleth,bayesian,11,8,8,70,1,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,linear,2,2,2,-73,2,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,kmeans,0,2,2,33,3,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,designer,2,0,0,77,4,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,designer,22,6,6,64,5,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,linear,24,0,0,-78,6,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,kmeans,26,7,7,84,7,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,linear,7,3,1,63,8,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,kmeans,1,0,0,17,9,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,designer,7,3,4,-25,10,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,bayesian,19,8,8,37,11,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,designer,8,8,8,-81,12,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,bayesian,2,8,8,23,13,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,bayesian,25,1,1,29,15,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,designer,9,3,3,32,16,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,designer,6,2,3,-24,18,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,kmeans,22,2,2,-18,19,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,kmeans,6,4,4,-73,20,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,bayesian,18,3,3,-82,21,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,kmeans,19,5,5,65,22,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,linear,0,0,1,-58,23,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,designer,16,6,7,31,24,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,kmeans,3,7,6,-22,25,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,linear,21,7,7,64,26,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,bayesian,21,3,3,-29,27,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,linear,20,4,5,-90,28,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,bayesian,3,3,4,-57,29,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,linear,8,5,6,-82,30,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,linear,18,3,3,-64,31,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,designer,23,6,6,-34,32,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,choropleth,designer,10,4,5,42,33,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,bayesian,12,1,1,35,34,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,linear,14,0,0,-27,35,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,scatter,bayesian,10,2,2,-12,36,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,kmeans,16,7,7,20,37,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+39,heatmap,kmeans,24,6,6,-8,38,35,Cognitive Neuroscientist,Female,yes,no,6,graduateStudies,laptop,13,0,It wasn't clear what you meant by pleasant? Where you referring to color scheme
+42,heatmap,designer,13,8,8,-23,0,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,linear,23,2,1,-26,1,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,designer,12,7,6,0,2,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,designer,11,7,6,-13,3,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,kmeans,18,4,5,20,4,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,kmeans,10,4,4,13,6,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,kmeans,26,8,7,13,7,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,bayesian,3,7,8,-13,8,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,kmeans,19,8,8,-24,10,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,designer,1,7,6,13,12,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,bayesian,10,5,6,25,13,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,designer,15,7,7,9,14,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,bayesian,9,1,0,45,15,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,linear,9,5,6,13,16,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,kmeans,4,2,1,33,17,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,bayesian,7,6,6,13,18,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,linear,0,0,0,43,19,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,bayesian,2,3,2,47,20,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,bayesian,17,2,2,-21,21,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,designer,19,6,5,22,22,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,linear,8,4,4,-72,23,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,kmeans,17,2,2,45,24,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,bayesian,13,3,3,37,25,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,designer,23,0,0,39,26,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,linear,17,4,4,32,27,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,linear,26,4,6,-32,28,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,bayesian,16,4,3,-16,29,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,designer,20,7,6,24,30,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,linear,7,4,3,-41,31,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,bayesian,24,0,0,31,32,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,kmeans,9,6,6,36,33,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,kmeans,2,8,8,23,34,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,linear,5,8,7,-68,35,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,choropleth,linear,20,3,4,35,36,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,scatter,designer,3,5,7,-27,37,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+42,heatmap,kmeans,15,8,8,25,38,52,Picture Framer Artist,Male,yes,no,1,collegeGraduate,laptop,15,30,
+43,heatmap,kmeans,18,1,1,10,1,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,bayesian,0,5,5,32,2,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,designer,5,8,7,-26,3,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,kmeans,26,4,4,-15,4,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,designer,24,8,8,-75,6,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,designer,12,5,4,35,7,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,linear,17,8,8,0,8,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,bayesian,25,8,8,-57,9,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,designer,8,5,4,0,11,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,kmeans,19,2,2,64,12,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,linear,24,1,1,38,13,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,kmeans,9,8,8,-20,14,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,designer,1,4,4,25,15,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,linear,0,4,4,31,16,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,linear,9,3,4,83,17,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,designer,25,3,3,-73,18,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,kmeans,13,1,2,13,19,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,bayesian,20,5,4,33,20,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,bayesian,8,0,1,-20,21,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,linear,18,7,6,100,22,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,bayesian,23,3,4,54,23,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,kmeans,1,8,8,32,24,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,designer,9,3,3,15,25,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,bayesian,13,4,4,-31,26,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,kmeans,6,8,8,-83,27,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,linear,10,1,1,-68,28,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,kmeans,10,3,3,13,29,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,linear,12,0,0,63,30,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,bayesian,3,7,7,-37,31,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,designer,13,2,2,100,32,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,bayesian,22,1,1,-30,33,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,designer,7,7,7,-100,34,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,choropleth,linear,5,0,0,57,35,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,linear,16,5,6,-3,36,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,scatter,kmeans,3,7,7,-35,37,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+43,heatmap,bayesian,6,5,5,9,38,24,UI/UX Designer,Male,yes,no,10,graduateStudies,desktop,21,10,alialkan.13@gmail.com in case of need.
+44,scatter,linear,24,5,5,5,0,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,linear,20,4,6,-3,2,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,designer,4,4,3,-12,3,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,designer,21,8,8,-3,4,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,bayesian,23,4,3,1,5,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,kmeans,4,1,2,8,6,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,designer,11,2,2,3,7,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,kmeans,19,4,4,7,8,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,kmeans,16,8,7,-60,10,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,bayesian,25,6,5,-4,11,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,kmeans,12,5,4,-45,12,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,kmeans,10,5,5,5,13,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,designer,9,4,3,-25,14,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,linear,8,3,3,-85,15,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,bayesian,7,3,4,-19,16,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,designer,2,8,8,13,18,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,bayesian,5,1,2,-5,19,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,linear,9,4,3,7,20,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,bayesian,24,5,5,1,21,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,kmeans,8,0,0,1,22,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,linear,11,3,4,1,23,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,kmeans,7,3,5,1,24,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,bayesian,10,2,3,-12,25,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,designer,8,5,4,-82,26,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,kmeans,5,5,5,-29,27,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,designer,7,0,0,-57,28,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,kmeans,11,8,8,-17,29,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,linear,13,8,8,-1,30,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,bayesian,26,1,2,19,31,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,designer,6,0,0,5,32,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,choropleth,linear,6,1,0,-85,33,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,bayesian,13,8,8,16,34,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,linear,14,8,8,16,35,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,scatter,bayesian,21,7,7,2,36,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,linear,16,6,5,-46,37,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+44,heatmap,designer,24,4,4,-39,38,28,Web Developer,Male,yes,no,12,collegeGraduate,laptop,15,0,
+45,choropleth,bayesian,13,1,2,34,0,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,linear,26,0,0,27,1,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,kmeans,8,2,2,26,2,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,kmeans,18,8,8,53,3,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,designer,17,8,7,41,4,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,bayesian,17,8,8,14,5,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,designer,1,2,3,21,6,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,bayesian,6,0,0,-68,7,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,kmeans,6,7,6,-18,8,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,linear,25,1,2,25,9,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,bayesian,25,2,3,-15,10,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,kmeans,19,6,7,23,11,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,bayesian,18,2,2,46,12,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,bayesian,2,2,3,-16,13,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,designer,21,3,3,28,14,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,bayesian,10,6,5,31,15,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,bayesian,22,8,8,-48,16,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,designer,4,1,1,-17,17,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,kmeans,17,4,5,32,18,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,designer,15,5,4,39,19,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,designer,19,2,1,18,22,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,linear,10,4,4,-46,23,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,linear,11,7,7,32,24,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,bayesian,5,5,5,23,25,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,linear,8,8,7,-81,26,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,designer,2,8,8,34,27,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,kmeans,20,8,8,-43,29,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,linear,17,6,8,24,30,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,linear,4,4,4,-18,31,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,kmeans,22,0,1,-65,32,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,linear,16,0,1,-78,33,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,heatmap,designer,8,6,7,33,34,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,choropleth,kmeans,11,6,5,-57,35,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,kmeans,4,7,7,-62,36,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,linear,13,1,1,-64,37,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+45,scatter,designer,7,8,8,53,38,37,UX Director,Male,yes,no,10,collegeGraduate,desktop,27,14,
+46,scatter,kmeans,7,4,4,-53,0,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,linear,8,1,1,-79,2,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,designer,17,4,5,25,4,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,designer,8,3,4,-65,5,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,kmeans,22,8,8,-17,6,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,bayesian,15,2,1,-19,7,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,linear,5,4,4,-61,8,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,kmeans,8,2,3,13,9,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,bayesian,1,0,0,0,10,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,bayesian,4,6,5,-35,11,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,bayesian,25,6,7,4,12,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,designer,16,4,6,-17,13,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,designer,13,5,5,-70,14,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,kmeans,16,5,6,29,15,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,designer,20,0,0,-18,16,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,linear,12,5,4,22,17,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,designer,9,5,5,-84,18,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,linear,6,8,8,23,19,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,bayesian,2,2,3,0,20,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,kmeans,15,8,8,47,21,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,designer,7,0,0,11,22,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,bayesian,24,0,0,-30,23,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,linear,16,4,3,28,24,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,linear,4,7,6,43,25,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,designer,0,0,0,-43,26,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,bayesian,14,1,1,67,27,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,linear,1,5,6,19,28,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,kmeans,10,0,0,-29,29,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,kmeans,23,7,6,45,30,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,kmeans,14,7,6,6,31,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,scatter,bayesian,8,3,3,-18,32,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,choropleth,designer,2,4,5,-14,33,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,bayesian,26,8,8,-32,34,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,linear,10,8,8,27,35,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,kmeans,3,6,8,65,36,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+46,heatmap,linear,24,3,3,5,38,30,UX Designer,Male,yes,no,10,graduateStudies,laptop,13,5,sankalpagarwal294@gmail.com
+49,scatter,bayesian,25,7,7,28,0,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,linear,4,3,5,73,1,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,kmeans,16,7,7,36,2,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,bayesian,15,5,6,-75,3,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,linear,17,0,0,-34,4,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,linear,15,7,6,-55,5,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,designer,1,5,6,-51,6,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,kmeans,2,1,2,-100,7,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,kmeans,26,4,5,-47,8,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,linear,13,5,3,-100,9,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,linear,11,5,5,56,11,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,bayesian,6,0,0,-100,12,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,bayesian,26,3,4,-100,13,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,kmeans,25,5,5,58,14,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,designer,19,2,3,-19,15,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,linear,10,2,2,29,16,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,bayesian,21,8,8,78,17,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,designer,20,0,0,98,18,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,designer,25,1,1,17,19,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,bayesian,19,1,1,-36,20,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,linear,12,1,1,-25,21,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,kmeans,15,2,2,-69,22,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,kmeans,20,3,3,-100,23,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,designer,22,7,7,71,24,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,designer,6,3,3,-61,25,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,linear,22,3,4,-94,26,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,bayesian,11,5,5,16,28,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,kmeans,24,6,7,61,29,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,kmeans,6,7,7,63,30,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,linear,20,1,2,-34,31,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,designer,18,5,6,-71,32,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,bayesian,22,2,2,-71,33,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,scatter,kmeans,23,0,0,46,34,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,choropleth,bayesian,4,0,1,-100,35,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,designer,15,1,1,75,36,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+49,heatmap,designer,9,8,8,36,38,28,designer,Female,yes,no,7,collegeGraduate,laptop,14,1,
+50,choropleth,designer,9,4,4,75,0,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,designer,23,6,6,100,1,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,designer,8,1,2,100,2,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,linear,1,2,3,87,3,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,kmeans,17,3,3,100,4,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,designer,3,3,3,100,5,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,kmeans,26,8,8,100,6,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,linear,10,5,4,100,7,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,bayesian,16,5,5,100,8,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,designer,2,8,8,100,9,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,designer,14,7,7,100,10,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,bayesian,9,0,0,74,12,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,bayesian,24,7,7,0,13,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,linear,5,7,6,51,14,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,kmeans,4,5,5,87,15,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,bayesian,7,3,3,100,16,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,linear,2,3,3,100,17,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,designer,6,3,2,100,18,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,kmeans,25,8,8,62,19,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,linear,18,1,1,100,20,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,kmeans,24,6,6,100,21,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,bayesian,22,0,0,100,22,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,kmeans,11,8,8,100,23,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,kmeans,22,8,8,100,24,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,kmeans,23,7,7,-7,25,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,designer,22,4,2,100,26,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,kmeans,14,7,7,-4,27,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,linear,19,3,2,100,29,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,bayesian,1,7,7,7,30,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,designer,21,3,3,19,31,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,linear,8,2,3,100,33,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,choropleth,linear,24,7,7,59,34,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,linear,16,2,3,100,35,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,heatmap,bayesian,3,5,5,-100,36,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,bayesian,11,1,1,-26,37,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+50,scatter,bayesian,17,0,0,100,38,33,Designer,Female,yes,no,9,collegeGraduate,desktop,27,14,
+52,choropleth,kmeans,5,1,0,0,0,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,linear,25,6,6,0,1,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,kmeans,4,7,5,0,2,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,bayesian,16,7,7,0,3,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,linear,3,5,4,0,4,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,designer,7,3,4,0,5,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,bayesian,5,1,2,0,6,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,linear,9,2,3,0,7,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,kmeans,24,8,8,0,8,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,designer,22,2,1,0,9,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,designer,24,6,5,0,10,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,linear,1,4,5,0,11,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,kmeans,22,6,4,0,12,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,kmeans,21,0,0,0,13,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,bayesian,10,5,3,0,14,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,linear,22,1,3,0,15,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,bayesian,23,2,3,0,16,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,kmeans,15,7,5,0,17,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,kmeans,2,7,5,0,19,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,bayesian,9,6,6,0,20,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,designer,14,2,3,0,21,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,bayesian,19,6,6,0,22,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,bayesian,8,5,6,0,23,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,linear,18,2,3,0,24,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,designer,10,4,5,0,25,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,linear,2,4,5,0,26,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,kmeans,18,1,1,0,27,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,designer,17,6,5,0,28,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,bayesian,1,0,0,0,29,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,designer,21,4,4,0,31,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,linear,15,1,3,0,33,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,choropleth,bayesian,7,8,8,0,34,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,heatmap,linear,21,2,3,0,35,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,designer,20,3,3,0,36,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,designer,1,5,3,0,37,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+52,scatter,kmeans,10,0,0,0,38,44,Graphic Designer,Female,yes,no,5,collegeGraduate,laptop,18,20,There are too many test color sets here--its difficult to focus on this past 20 sets.
+53,choropleth,bayesian,12,4,5,0,0,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,designer,1,4,5,0,1,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,bayesian,0,4,3,0,3,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,bayesian,8,4,4,0,4,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,kmeans,17,2,3,0,5,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,linear,3,4,5,0,6,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,designer,24,0,0,0,7,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,linear,1,8,8,0,8,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,linear,25,3,4,0,9,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,bayesian,6,8,7,0,10,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,kmeans,18,0,0,0,11,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,bayesian,7,2,2,0,12,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,bayesian,3,8,7,0,13,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,designer,21,3,2,0,14,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,linear,22,2,3,0,15,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,kmeans,7,7,6,0,16,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,designer,7,8,8,0,17,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,linear,21,4,5,0,18,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,kmeans,4,1,2,0,19,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,kmeans,6,7,7,0,20,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,kmeans,20,8,7,0,21,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,designer,0,8,8,0,22,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,linear,26,0,0,0,23,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,kmeans,26,1,2,0,24,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,linear,17,6,6,0,25,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,bayesian,13,3,3,0,26,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,linear,8,6,6,0,27,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,kmeans,13,5,5,0,28,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,bayesian,15,7,7,0,29,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,designer,19,7,7,0,31,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,kmeans,0,4,4,0,32,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,designer,14,2,3,0,33,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,designer,4,4,3,0,34,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,heatmap,designer,8,2,3,0,35,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,scatter,linear,5,4,4,0,36,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+53,choropleth,bayesian,21,6,5,0,38,30,graphic designer,Male,yes,no,10,collegeGraduate,laptop,13,5,
+54,heatmap,bayesian,13,3,3,0,0,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,bayesian,9,7,6,100,1,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,bayesian,15,0,2,4,2,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,linear,1,6,5,100,3,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,kmeans,16,6,5,100,4,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,kmeans,19,7,7,0,5,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,designer,16,5,5,100,6,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,bayesian,4,0,0,0,7,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,designer,20,3,4,100,8,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,linear,25,5,4,100,9,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,linear,18,8,8,100,11,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,designer,8,8,8,0,12,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,linear,15,2,2,100,13,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,kmeans,23,8,7,0,14,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,bayesian,1,3,3,100,15,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,kmeans,26,8,8,100,16,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,kmeans,11,5,6,0,17,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,bayesian,16,4,4,0,18,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,kmeans,12,0,1,100,19,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,kmeans,15,5,8,100,20,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,designer,24,2,3,0,21,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,designer,3,7,3,100,22,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,bayesian,2,5,4,100,23,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,designer,0,7,6,0,24,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,bayesian,22,4,5,0,25,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,linear,20,5,3,87,27,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,designer,6,3,2,100,28,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,designer,26,7,7,64,29,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,linear,3,7,6,100,30,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,linear,26,0,0,66,31,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,linear,0,2,3,0,33,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,heatmap,kmeans,9,6,6,100,34,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,kmeans,5,4,3,100,35,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,designer,15,4,4,100,36,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,scatter,bayesian,19,3,2,100,37,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+54,choropleth,linear,9,7,6,100,38,50,Artist,Female,yes,no,6,collegeGraduate,desktop,1,20,Do I get the results? Are they in color? :)
+55,heatmap,bayesian,20,6,6,0,0,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,linear,26,4,3,0,2,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,designer,6,4,5,0,3,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,bayesian,22,3,6,0,4,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,linear,13,2,0,0,5,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,designer,9,4,5,0,6,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,designer,11,4,3,0,7,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,linear,1,6,3,0,8,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,bayesian,23,4,2,0,9,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,bayesian,4,2,1,0,10,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,designer,23,2,0,0,12,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,kmeans,2,1,0,0,13,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,designer,1,6,5,0,14,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,designer,17,1,2,0,15,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,linear,20,2,3,0,16,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,bayesian,25,7,6,0,17,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,linear,21,5,5,0,18,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,linear,5,3,4,0,19,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,linear,9,6,5,0,20,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,kmeans,6,3,6,0,21,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,kmeans,8,1,0,0,22,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,linear,4,2,0,0,23,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,linear,3,3,8,0,24,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,kmeans,24,7,6,0,25,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,bayesian,13,0,7,0,26,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,designer,21,7,6,0,27,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,kmeans,22,5,1,0,28,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,kmeans,13,8,7,0,29,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,kmeans,26,8,6,0,30,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,designer,22,4,8,0,31,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,heatmap,bayesian,9,6,6,0,33,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,kmeans,17,2,2,0,34,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,bayesian,12,1,2,0,35,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,choropleth,kmeans,20,2,0,0,36,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,bayesian,7,1,2,0,37,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+55,scatter,designer,5,8,8,0,38,41,designer,Male,yes,no,12,collegeGraduate,desktop,19,14,
+47,choropleth,designer,11,4,5,0,0,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,kmeans,24,2,2,0,2,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,linear,2,2,3,-100,3,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,linear,8,6,4,77,4,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,bayesian,8,3,3,0,5,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,designer,10,7,6,25,6,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,kmeans,21,8,8,45,7,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,bayesian,3,8,8,100,8,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,kmeans,18,8,8,0,9,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,linear,15,2,3,0,10,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,kmeans,0,4,4,0,11,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,bayesian,24,8,8,0,12,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,kmeans,10,5,5,0,13,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,designer,0,8,8,0,14,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,bayesian,26,0,1,-100,15,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,kmeans,14,8,8,45,16,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,designer,2,7,6,0,17,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,linear,10,7,6,0,18,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,linear,13,8,7,0,19,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,designer,26,0,0,-100,20,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,linear,19,1,2,0,21,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,bayesian,7,0,0,0,22,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,designer,9,1,0,0,23,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,kmeans,7,0,0,0,24,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,linear,14,3,2,0,25,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,designer,20,2,2,-100,26,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,bayesian,1,8,8,0,28,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,linear,6,8,8,0,29,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,linear,1,8,8,0,30,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,kmeans,22,8,7,0,31,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,designer,17,0,0,0,32,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,scatter,designer,6,6,5,0,33,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,bayesian,0,5,5,0,34,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,bayesian,21,5,5,0,36,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,choropleth,kmeans,8,0,0,0,37,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
+47,heatmap,bayesian,9,0,0,0,38,18,student,Male,yes,no,4,highSchool,desktop,23,3,abdalrhman.designer@gmail.com
